@@ -1,6 +1,9 @@
 *.pyc
 *.egg-info
+.coverage
 build
 dist
-venv
+venv*
 .DS_Store
+cover/*
+.env
